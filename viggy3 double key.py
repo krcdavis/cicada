@@ -4,7 +4,6 @@ runes = ["ᚠ", "ᚢ", "ᚦ", "ᚩ", "ᚱ", "ᚳ", "ᚷ", "ᚹ", "ᚻ", "ᚾ", "
 letters = ["F", "V", "th", "O", "R", "C", "G", "W", "H", "N", "I", "J", "eo", "P", "X", "S", "T", "B", "E", "M", "L", "ng", "oe", "D", "A", "ae", "Y", "ia", "ea"]
 pseudo = ["F", "V", "#", "O", "R", "C", "G", "W", "H", "N", "I", "J", "@", "P", "X", "S", "T", "B", "E", "M", "L", "&", "0", "D", "A", "(", "Y", "!", ")"]
 primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109]
-exclude = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890/-.&$"#for creating freq-only files?
 
 #MAKE SURE THEY GOOD
 testkeys=["CIRCVMFERENCE",
